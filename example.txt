@@ -6,3 +6,4 @@ Education Level : "Undergraduate"
 Course : "Computer Science"
 DOB : "12th April 2001"
 Father : "Isaac"
+animals: {"cow","goat","sheep","chicken"}
